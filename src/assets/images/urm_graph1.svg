@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="269" height="269" viewBox="0 0 269 269">
+  <g id="urm_graph1" transform="translate(11220 11959)">
+    <g id="Group_25785" data-name="Group 25785" transform="translate(-11336.65 -12143)">
+      <circle id="Ellipse_205" data-name="Ellipse 205" cx="110" cy="110" r="110" transform="translate(134 212)" fill="#25f1d5"/>
+      <path id="Intersection_25" data-name="Intersection 25" d="M11387.143,11736.141l101.854-17.151a110.143,110.143,0,0,1-85.924,128.794Z" transform="translate(-11137 -11418)" fill="#4b8ce2"/>
+      <path id="Intersection_24" data-name="Intersection 24" d="M11454.136,11661.472a142.767,142.767,0,0,1,66.81,94.875L11381,11783.928Z" transform="translate(-11153 -11447.926)" fill="#ffb93f"/>
+      <path id="Intersection_23" data-name="Intersection 23" d="M11381,11644.991a109.469,109.469,0,0,1,56.52,15.612l-56.52,94.388Z" transform="translate(-11137 -11432.992)" fill="#85dc43"/>
+      <circle id="Ellipse_202" data-name="Ellipse 202" cx="64" cy="64" r="64" transform="translate(180 258)" fill="#fff"/>
+      <line id="Line_45" data-name="Line 45" y2="66" transform="translate(244.5 200.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_46" data-name="Line 46" y1="69" x2="43" transform="translate(266.5 214.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_47" data-name="Line 47" y1="18" x2="80" transform="translate(297.5 294.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_48" data-name="Line 48" x1="10" y1="70" transform="translate(256.5 365.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <text id="_32" data-name="32" transform="translate(244 319)" fill="#ffb93f" font-size="28" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-16.105" y="0">32</tspan></text>
+      <text id="Store_managers" data-name="Store
+managers" transform="translate(244 337)" fill="#353c40" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-16.061" y="0">Store</tspan><tspan x="-30.3" y="12">managers</tspan></text>
+      <path id="Path_58202" data-name="Path 58202" d="M-10891.35-11313.75l-89.65,17.4,2.3-9.3,84.351-19.7Z" transform="translate(11271 11620)" fill="#fff"/>
+      <path id="Path_58203" data-name="Path 58203" d="M-11001.35-11342.35l48-73.65H-10968l-39.65,70.65Z" transform="translate(11271 11620)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_3317" data-name="Rectangle 3317" width="269" height="269" transform="translate(-11220 -11959)" fill="none"/>
+  </g>
+</svg>

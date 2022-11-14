@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="269" height="269" viewBox="0 0 269 269">
+  <g id="urm_graph2" transform="translate(11220 11959)">
+    <rect id="Rectangle_3317" data-name="Rectangle 3317" width="269" height="269" transform="translate(-11220 -11959)" fill="none"/>
+    <g id="Group_25787" data-name="Group 25787" transform="translate(-11771 -12149)">
+      <circle id="Ellipse_218" data-name="Ellipse 218" cx="110" cy="110" r="110" transform="translate(576 214)" fill="#f0f0f0"/>
+      <path id="Intersection_32" data-name="Intersection 32" d="M11317.462,11757.929a110.821,110.821,0,0,1,1.424-17.744l108.574,17.744v-110a110,110,0,1,1-110,110Z" transform="translate(-10741.461 -11433.928)" fill="#295cc4"/>
+      <circle id="Ellipse_217" data-name="Ellipse 217" cx="62" cy="62" r="62" transform="translate(624 262)" fill="#fff"/>
+      <text id="_127" data-name="127" transform="translate(686 325)" fill="#295cc4" font-size="28" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-24.158" y="0">127</tspan></text>
+      <text id="Active_users" data-name="Active users" transform="translate(686 343)" fill="#353c40" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-36.743" y="0">Active users</tspan></text>
+    </g>
+  </g>
+</svg>

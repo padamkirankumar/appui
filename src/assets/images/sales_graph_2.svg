@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="371" height="266" viewBox="0 0 371 266">
+  <g id="sales_graph_2" transform="translate(-888 -284)">
+    <text id="John" transform="translate(932 546)" fill="#353c40" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">John</tspan></text>
+    <text id="_0" data-name="0" transform="translate(907 522)" fill="#353c40" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-6.469" y="0">0</tspan></text>
+    <text id="_10k" data-name="10k" transform="translate(907 481)" fill="#353c40" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-18.902" y="0">10k</tspan></text>
+    <text id="_20k" data-name="20k" transform="translate(907 440)" fill="#353c40" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-18.902" y="0">20k</tspan></text>
+    <text id="_30k" data-name="30k" transform="translate(907 399)" fill="#353c40" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-18.902" y="0">30k</tspan></text>
+    <text id="_40k" data-name="40k" transform="translate(907 358)" fill="#353c40" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-18.902" y="0">40k</tspan></text>
+    <text id="_50k" data-name="50k" transform="translate(907 317)" fill="#353c40" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-18.902" y="0">50k</tspan></text>
+    <text id="Raju" transform="translate(1005 546)" fill="#353c40" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Raju</tspan></text>
+    <text id="Gayathri" transform="translate(1061 546)" fill="#353c40" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Gayathri</tspan></text>
+    <text id="Vignesh" transform="translate(1134 546)" fill="#353c40" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Vignesh</tspan></text>
+    <text id="Ramya" transform="translate(1208 546)" fill="#353c40" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Ramya</tspan></text>
+    <rect id="Rectangle_2906" data-name="Rectangle 2906" width="348" height="1" transform="translate(911 517)" fill="#d6d8dd"/>
+    <rect id="Rectangle_2908" data-name="Rectangle 2908" width="348" height="1" transform="translate(911 476)" fill="#d6d8dd" opacity="0.3"/>
+    <rect id="Rectangle_2909" data-name="Rectangle 2909" width="348" height="1" transform="translate(911 435)" fill="#d6d8dd" opacity="0.3"/>
+    <rect id="Rectangle_2910" data-name="Rectangle 2910" width="348" height="1" transform="translate(911 394)" fill="#d6d8dd" opacity="0.3"/>
+    <rect id="Rectangle_2911" data-name="Rectangle 2911" width="348" height="1" transform="translate(911 353)" fill="#d6d8dd" opacity="0.3"/>
+    <rect id="Rectangle_2912" data-name="Rectangle 2912" width="348" height="1" transform="translate(911 312)" fill="#d6d8dd" opacity="0.3"/>
+    <rect id="Rectangle_2907" data-name="Rectangle 2907" width="234" height="1" transform="translate(917.5 518) rotate(-90)" fill="#d6d8dd"/>
+    <rect id="Rectangle_2913" data-name="Rectangle 2913" width="20" height="190" transform="translate(939 328)" fill="#29c47c"/>
+    <rect id="Rectangle_2914" data-name="Rectangle 2914" width="20" height="146" transform="translate(1009 372)" fill="#29c47c"/>
+    <rect id="Rectangle_2915" data-name="Rectangle 2915" width="20" height="108" transform="translate(1079 410)" fill="#29c47c"/>
+    <rect id="Rectangle_2916" data-name="Rectangle 2916" width="20" height="75" transform="translate(1149 443)" fill="#29c47c"/>
+    <rect id="Rectangle_2917" data-name="Rectangle 2917" width="20" height="49" transform="translate(1219 469)" fill="#29c47c"/>
+  </g>
+</svg>

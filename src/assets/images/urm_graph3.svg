@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="269" height="269" viewBox="0 0 269 269">
+  <g id="urm_graph3" transform="translate(11220 11959)">
+    <rect id="Rectangle_3317" data-name="Rectangle 3317" width="269" height="269" transform="translate(-11220 -11959)" fill="none"/>
+    <g id="Group_25789" data-name="Group 25789" transform="translate(-12220 -12147)">
+      <circle id="Ellipse_219" data-name="Ellipse 219" cx="110" cy="110" r="110" transform="translate(1026 214)" fill="#ffb93f"/>
+      <path id="Intersection_33" data-name="Intersection 33" d="M11317.462,11757.929a110.821,110.821,0,0,1,1.424-17.744l108.574,17.744v-110a110,110,0,1,1-110,110Z" transform="translate(-10291.461 -11433.928)" fill="#1ae17e"/>
+      <circle id="Ellipse_221" data-name="Ellipse 221" cx="62" cy="62" r="62" transform="translate(1074 262)" fill="#fff"/>
+      <text id="_320" data-name="320" transform="translate(1136 325)" fill="#1ae17e" font-size="28" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-24.158" y="0">320</tspan></text>
+      <text id="Total_Empoyees" data-name="Total Empoyees" transform="translate(1136 343)" fill="#353c40" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-48.098" y="0">Total Empoyees</tspan></text>
+      <line id="Line_49" data-name="Line 49" y2="61" transform="translate(1136.5 211.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_50" data-name="Line 50" x2="57" y2="9" transform="translate(1023.5 305.5)" fill="none" stroke="#fff" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

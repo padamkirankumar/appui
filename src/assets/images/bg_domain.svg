@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="667" viewBox="0 0 1366 667">
+  <defs>
+    <clipPath id="clip-bg_domain">
+      <rect width="1366" height="667"/>
+    </clipPath>
+  </defs>
+  <g id="bg_domain" clip-path="url(#clip-bg_domain)">
+    <rect width="1366" height="667" fill="#fff"/>
+    <path id="Path_57963" data-name="Path 57963" d="M752,765.2V-20.652h618.928v823Z" fill="#58b7ff"/>
+    <path id="Path_57962" data-name="Path 57962" d="M0,452.261V-8H687.882l66.841,776H0Z" fill="#ed1c24"/>
+    <g id="Group_25424" data-name="Group 25424" transform="translate(-277 -121)">
+      <path id="Path_57961" data-name="Path 57961" d="M1217.517,118S825.755,226.046,811.653,886H762.417S449.055,431.916,573.162,118" transform="translate(246.987 3)" fill="#ffd958"/>
+    </g>
+    <rect id="Rectangle_2873" data-name="Rectangle 2873" width="350" height="500" rx="20" transform="translate(945 84)" fill="#fff"/>
+    <text id="Let_s_explore_the_world_s_best" data-name="Let&apos;s explore
+the world&apos;s best" transform="translate(79 251)" fill="#fff" font-size="50" font-family="SegoeUI-Light, Segoe UI" font-weight="300"><tspan x="0" y="0">Let&apos;s explore</tspan><tspan x="0" y="60">the world&apos;s best</tspan></text>
+    <g id="Group_25425" data-name="Group 25425" transform="translate(-416.459 -96.68)">
+      <g id="Group_25420" data-name="Group 25420" transform="translate(610.225 161.061)">
+        <path id="Path_57954" data-name="Path 57954" d="M15.006-22.327v-4.222H2.166V3.611h12.84V-.611H6.733V-9.573h6.678V-13.8H6.733v-8.531ZM33.49,3.611l-5.213-30.16H22.46L17.246,3.611h4.567L22.8-3.239h5.041l.991,6.851Zm-8.229-23.7h.129l1.853,12.71H23.408ZM42.236-26.98c-4.222,0-6.808,2.327-6.808,6.765v.732c0,3.275,1.379,5.73,5.429,9.479,2.973,2.714,3.835,4.093,3.835,5.989v.948c0,2.154-1.12,2.887-2.5,2.887-1.637,0-2.585-.991-2.585-3.016V-5.264l-4.395.431v1.982c0,4.438,2.844,6.894,7.066,6.894,4.179,0,6.98-2.327,6.98-6.765V-4.187c0-3.49-1.379-5.946-5.429-9.694C40.858-16.6,40-17.975,40-19.655V-20.3a2.139,2.139,0,0,1,2.284-2.456c1.594,0,2.37.948,2.37,3.016v.948l4.395-.431v-.862C49.044-24.524,46.459-26.98,42.236-26.98ZM60.16-10l6.248-16.545h-4.74L58.006-15.864H57.92L54.085-26.549H49.259l6.334,16.5V3.611H60.16ZM85.581,3.611h4.826L86.228-10.133c2.111-1.206,3.231-3.447,3.231-6.635v-2.154c0-4.955-2.671-7.626-7.583-7.626H75.284V3.611h4.567V-9.142h2.111Zm-5.73-25.938H81.7c2.2,0,3.188,1.163,3.188,3.705v1.551c0,2.542-.991,3.705-3.188,3.705H79.851Zm26.714,0v-4.222H93.725V3.611h12.84V-.611H98.292V-9.573h6.678V-13.8H98.292v-8.531Zm16.157.086v-4.309h-14.3v4.309h4.869V3.611h4.567V-22.241ZM138.707,3.611l-5.213-30.16h-5.817l-5.213,30.16h4.567l.991-6.851h5.041l.991,6.851Zm-8.23-23.7h.129l1.853,12.71h-3.835Zm16.071,23.7v-30.16h-4.567V3.611ZM156.027-.7V-26.549H151.46V3.611h12.193V-.7Z" transform="translate(-2.166 26.98)" fill="#fff"/>
+        <text id="In-Store_Online" data-name="In-Store &amp; Online" transform="translate(-1.766 51.619)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="0.16em"><tspan x="0" y="0">In-Store &amp; Online</tspan></text>
+      </g>
+      <g id="Group_25422" data-name="Group 25422" transform="translate(479.459 125.463)">
+        <g id="Group_25421" data-name="Group 25421" transform="translate(0 0)">
+          <path id="Polygon_1" data-name="Polygon 1" d="M27.664,3.55a2.372,2.372,0,0,0-2.052,1.188L3.864,42.6a2.375,2.375,0,0,0,0,2.357L25.612,82.827a2.372,2.372,0,0,0,2.052,1.188H71.1a2.372,2.372,0,0,0,2.052-1.188L94.9,44.961a2.375,2.375,0,0,0,0-2.357L73.157,4.738A2.372,2.372,0,0,0,71.1,3.55H27.664m0-3.55H71.1a5.917,5.917,0,0,1,5.131,2.97L97.983,40.836a5.917,5.917,0,0,1,0,5.893L76.235,84.6a5.917,5.917,0,0,1-5.131,2.97H27.664a5.917,5.917,0,0,1-5.131-2.97L.786,46.729a5.917,5.917,0,0,1,0-5.893L22.533,2.97A5.917,5.917,0,0,1,27.664,0Z" transform="translate(0 49.384) rotate(-30)" fill="#fff"/>
+          <path id="Polygon_2" data-name="Polygon 2" d="M56.575,0A5,5,0,0,1,60.9,2.5L77.837,31.815a5,5,0,0,1,0,5L60.9,66.133a5,5,0,0,1-4.33,2.5H22.707a5,5,0,0,1-4.33-2.5L1.444,36.817a5,5,0,0,1,0-5L18.377,2.5A5,5,0,0,1,22.707,0Z" transform="translate(13.172 52.711) rotate(-30)" fill="#fff"/>
+        </g>
+        <path id="Subtraction_138" data-name="Subtraction 138" d="M26.386,36.405H18.031L7.232,22.967H6.84l0,0H0V17.585H6.84l0,0h3.619c4.727,0,7.329-2.03,7.329-5.717,0-3.569-2.582-5.616-7.087-5.616H6.84v9.657H0V0H10.9a20.211,20.211,0,0,1,5.829.784,12.292,12.292,0,0,1,4.346,2.264,9.729,9.729,0,0,1,2.714,3.611,12,12,0,0,1,.938,4.824,10.723,10.723,0,0,1-2.3,6.828,12.7,12.7,0,0,1-7.761,4.263L26.385,36.4Zm-19.547,0H0V24.644H6.84V36.4Z" transform="translate(55.537 45.025)" fill="#ed1c24" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_57956" data-name="Path 57956" d="M-23844.594-11968.894h-15.457v5.389h17.938l-.119-5.389Z" transform="translate(23904.266 12031.502)" fill="#ed1c24"/>
+        <rect id="Rectangle_2871" data-name="Rectangle 2871" width="10.23" height="5.115" transform="translate(55.536 76.445)" fill="#ed1c24" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+    <text id="Terms_Conditions_Privacy_Policy" data-name="Terms &amp; Conditions   |   Privacy Policy" transform="translate(199 618)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-115.285" y="0" xml:space="preserve">Terms &amp; Conditions   |   Privacy Policy</tspan></text>
+    <text id="Hey_Login_Now" data-name="Hey,
+Login Now" transform="translate(975 151)" fill="#353c40" font-size="28" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Hey,</tspan><tspan x="0" y="36">Login Now</tspan></text>
+    <g id="Rectangle_2986" data-name="Rectangle 2986" transform="translate(975 343)" fill="#f4f6fa" stroke="#dce3f2" stroke-width="1">
+      <rect width="290" height="44" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="289" height="43" rx="4.5" fill="none"/>
+    </g>
+    <g id="Component_8_5" data-name="Component 8 – 5" transform="translate(975 225)">
+      <g id="Rectangle_2860" data-name="Rectangle 2860" fill="#f4f6fa" stroke="#dce3f2" stroke-width="1">
+        <rect width="290" height="44" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="289" height="43" rx="4.5" fill="none"/>
+      </g>
+      <text id="USER_ID" data-name="USER ID" transform="translate(15 27)" fill="#6f6f6f" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">USER ID</tspan></text>
+    </g>
+    <g id="Component_9_5" data-name="Component 9 – 5" transform="translate(975 284)">
+      <g id="Rectangle_2985" data-name="Rectangle 2985" fill="#f4f6fa" stroke="#dce3f2" stroke-width="1">
+        <rect width="290" height="44" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="289" height="43" rx="4.5" fill="none"/>
+      </g>
+      <text id="PASSWORD" transform="translate(15 27)" fill="#6f6f6f" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">PASSWORD</tspan></text>
+    </g>
+    <text id="SELECT_YOUR_STORE" data-name="SELECT YOUR STORE" transform="translate(990 370)" fill="#6f6f6f" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SELECT YOUR STORE</tspan></text>
+    <g id="Group_25511" data-name="Group 25511" transform="translate(-16 10)">
+      <text id="Remember_password" data-name="Remember password" transform="translate(1019 421)" fill="#858585" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Remember password</tspan></text>
+      <g id="Rectangle_2875" data-name="Rectangle 2875" transform="translate(991 407)" fill="#fff" stroke="#858585" stroke-width="1">
+        <rect width="18" height="18" rx="3" stroke="none"/>
+        <rect x="0.5" y="0.5" width="17" height="17" rx="2.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_3985" data-name="Group 3985" transform="translate(961 -8)">
+      <rect id="Rectangle_1827" data-name="Rectangle 1827" width="290" height="44" rx="8" transform="translate(14 468)" fill="#ed1c24"/>
+      <text id="SIGN_IN" data-name="SIGN IN" transform="translate(135 495)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SIGN IN</tspan></text>
+    </g>
+    <text id="Forgot_password_Reset" data-name="Forgot password?  Reset" transform="translate(1041 548)" fill="#858585" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0" xml:space="preserve">Forgot password?  </tspan><tspan y="0" fill="#353c40" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" text-decoration="underline">Reset</tspan></text>
+    <path id="Path_58003" data-name="Path 58003" d="M117.913,7.1,124.858.17a.582.582,0,0,1,.822.824l-6.531,6.513,6.531,6.513a.582.582,0,0,1-.822.824l-6.944-6.925a.582.582,0,0,1,0-.824Z" transform="translate(1235 486.852) rotate(-90)" fill="#353c40"/>
+    <text id="Powerful_Cloud_Retail_POS_System" data-name="Powerful Cloud
+Retail POS System" transform="translate(79 403)" fill="#fff" font-size="55" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Powerful Cloud</tspan><tspan x="0" y="60">Retail POS System</tspan></text>
+    <line id="Line_2" data-name="Line 2" x2="354" transform="translate(79.5 334.5)" fill="none" stroke="#fff" stroke-width="1" opacity="0.5"/>
+    <rect id="Rectangle_3032" data-name="Rectangle 3032" width="1366" height="667" fill="#fff" opacity="0.98"/>
+  </g>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="311" height="311" viewBox="0 0 311 311">
+  <g id="sales_report_graph3" transform="translate(11241 11980)">
+    <rect id="Rectangle_3317" data-name="Rectangle 3317" width="311" height="311" transform="translate(-11241 -11980)" fill="none"/>
+    <g id="Group_25791" data-name="Group 25791" transform="translate(-11346 -12531)">
+      <path id="Intersection_19" data-name="Intersection 19" d="M11394.144,14649.921a114.726,114.726,0,0,1,85.855-38.488v115Z" transform="translate(-11243 -14022.434)" fill="#3ccc86"/>
+      <path id="Intersection_18" data-name="Intersection 18" d="M11389.566,14677.778a115.107,115.107,0,0,1,19.558-30.38l85.772,76.6Z" transform="translate(-11257.898 -14020)" fill="#29cbb3"/>
+      <path id="Intersection_17" data-name="Intersection 17" d="M11397.706,14717a114.373,114.373,0,0,1,9.471-39.252L11512.5,14724Z" transform="translate(-11275.496 -14020)" fill="#29cbb3"/>
+      <path id="Intersection_16" data-name="Intersection 16" d="M11372.2,14724q0-3.309.185-6.572L11487.2,14724l-113.56,18.25A115.785,115.785,0,0,1,11372.2,14724Z" transform="translate(-11250.195 -14020)" fill="#37b8d5"/>
+      <path id="Intersection_15" data-name="Intersection 15" d="M11375.182,14742.523,11488.7,14724l-56.254,100.324A115.11,115.11,0,0,1,11375.182,14742.523Z" transform="translate(-11251.695 -14020)" fill="#0e578c"/>
+      <path id="Intersection_14" data-name="Intersection 14" d="M11423.9,14824.41,11480,14724l-19.514,113.353A114.243,114.243,0,0,1,11423.9,14824.41Z" transform="translate(-11243 -14020)" fill="#49379a"/>
+      <path id="Intersection_13" data-name="Intersection 13" d="M11461.4,14837.5l18.6-113.5,10.841,114.494q-5.353.5-10.841.5A115.932,115.932,0,0,1,11461.4,14837.5Z" transform="translate(-11243 -14020)" fill="#732e81"/>
+      <path id="Intersection_12" data-name="Intersection 12" d="M11480,14724l71.56,90.027a114.471,114.471,0,0,1-60.873,24.48Z" transform="translate(-11243 -14020)" fill="#95255d"/>
+      <path id="Intersection_11" data-name="Intersection 11" d="M11480,14724l113.4,19.238a114.912,114.912,0,0,1-41.887,70.829Z" transform="translate(-11243 -14020)" fill="#c13154"/>
+      <path id="Intersection_10" data-name="Intersection 10" d="M11480,14743.438l139.069-69.545a154.784,154.784,0,0,1,16.385,69.545,156.6,156.6,0,0,1-2.1,25.614Z" transform="translate(-11263.227 -14033.051)" fill="#d54739"/>
+      <path id="Intersection_9" data-name="Intersection 9" d="M11536.9,14624.038a115.536,115.536,0,0,1,43.821,44.41L11480,14724Z" transform="translate(-11243 -14020)" fill="#fc8e41"/>
+      <path id="Intersection_8" data-name="Intersection 8" d="M11480,14614.5a114.467,114.467,0,0,1,56.325,14.713L11480,14729.5Z" transform="translate(-11243 -14025.5)" fill="#febd3f"/>
+      <line id="Line_28" data-name="Line 28" x2="121" y2="6" transform="translate(116.5 697.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_29" data-name="Line 29" x2="109" y2="47" transform="translate(128.5 656.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_30" data-name="Line 30" x2="89" y2="80" transform="translate(148.5 624.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_32" data-name="Line 32" x2="1" y2="117" transform="translate(236.5 586.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_33" data-name="Line 33" x1="60" y2="106" transform="translate(236.5 598.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_34" data-name="Line 34" x1="104" y2="56" transform="translate(236.5 647.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_35" data-name="Line 35" x1="137" y1="23" transform="translate(237.5 713.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_36" data-name="Line 36" x1="74" y1="94" transform="translate(237.5 704.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_37" data-name="Line 37" x1="10" y1="121" transform="translate(237.5 703.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_38" data-name="Line 38" y1="120" x2="21" transform="translate(216.5 703.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_39" data-name="Line 39" y1="107" x2="59" transform="translate(177.5 703.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_40" data-name="Line 40" y1="20" x2="127" transform="translate(110.5 703.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <circle id="Ellipse_193" data-name="Ellipse 193" cx="35.5" cy="35.5" r="35.5" transform="translate(202 669)" fill="#fff"/>
+      <text id="Apr" transform="translate(248 621)" fill="#fff" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Apr</tspan></text>
+      <text id="May" transform="translate(289 644)" fill="#fff" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">May</tspan></text>
+      <text id="Jun" transform="translate(315 696)" fill="#fff" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Jun</tspan></text>
+      <text id="Jul" transform="translate(299 746)" fill="#fff" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Jul</tspan></text>
+      <text id="Aug" transform="translate(257 791)" fill="#fff" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Aug</tspan></text>
+      <text id="Sep" transform="translate(225 803)" fill="#fff" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Sep</tspan></text>
+      <text id="Oct" transform="translate(196 796)" fill="#fff" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Oct</tspan></text>
+      <text id="Nov" transform="translate(156 754)" fill="#fff" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Nov</tspan></text>
+      <text id="Dec" transform="translate(139 712)" fill="#fff" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Dec</tspan></text>
+      <text id="Jan" transform="translate(141 689)" fill="#fff" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Jan</tspan></text>
+      <text id="Feb" transform="translate(153 659)" fill="#fff" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Feb</tspan></text>
+      <text id="Mar" transform="translate(188 629)" fill="#fff" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Mar</tspan></text>
+      <rect id="Rectangle_3298" data-name="Rectangle 3298" width="50" height="24" rx="1" transform="translate(362 676)" fill="#404040"/>
+      <text id="_2_125" data-name="2,125" transform="translate(387 693)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-14.238" y="0">2,125</tspan></text>
+      <path id="Polygon_13" data-name="Polygon 13" d="M5,0l5,7H0Z" transform="translate(356 693) rotate(-90)" fill="#404040"/>
+    </g>
+  </g>
+</svg>

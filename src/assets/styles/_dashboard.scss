@@ -1,0 +1,10 @@
+.Dashboard {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    & .sales_graphs{
+        display: flex;
+        flex-direction: column;
+    }
+}

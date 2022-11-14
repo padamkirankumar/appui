@@ -1,0 +1,70 @@
+
+@import './assets/styles/maincss';
+@import './assets/fonticons/iconfont.css';
+
+@font-face {
+    font-family: BebasKai;
+    src: url(./assets/fonticons/BebasKai.ttf) format("opentype");
+  }
+//   @font-face {
+//     font-family: BebasKai;
+//     src: url(./assets/fonticons/ProductSans-Regular.ttf) format("opentype");
+//   }
+.btn-create{
+    height: 36px !important; 
+}
+
+.loading-indicator:before {
+    content: '';
+    background: #000000cc;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+.loading-indicator:after {
+    content: 'Loading';
+    position: fixed;
+    width: 100%;
+    top: 50%;
+    left: 0;
+    z-index: 1001;
+    color:white;
+    text-align:center;
+    font-weight:bold;
+    font-size:1.5rem;
+}
+.connect-indicator:before {
+    content: '';
+    background: #000000cc;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+.connect-indicator:after {
+    content: 'Connecting';
+    position: fixed;
+    width: 100%;
+    top: 50%;
+    left: 0;
+    z-index: 1001;
+    color:white;
+    text-align:center;
+    font-weight:bold;
+    font-size:1.5rem;
+}
+.leftmove{
+    margin-left: 11px;
+}
+
+.upper-case {
+   // transform: to-upper-case($string: "");
+   text-transform: capitalize;
+}

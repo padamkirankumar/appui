@@ -1,0 +1,31 @@
+<svg id="price_plans" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25.787" height="22.679" viewBox="0 0 25.787 22.679">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3582" data-name="Rectangle 3582" width="25.787" height="22.679" fill="#ed1c24"/>
+    </clipPath>
+  </defs>
+  <path id="Path_58857" data-name="Path 58857" d="M18.227,3.05h6.8V5.237h-6.8ZM.76,3.049h6.8v2.2H3.093v.811H7.576V19.627H.776V6.083H2.251V5.292H.76ZM8.376.747H17.4v2.22H8.376ZM7.587,0V2.253H0V20.447H7.615v2.229h6.008v-.732H8.391V3.782H17.46V7.5h.746V6.1h6.825V19.638H18.188V8.317h-.761V21.96H15.962v.719h2.25V20.42h7.575V2.224H18.179V0Z" fill="#ed1c24"/>
+  <rect id="Rectangle_3568" data-name="Rectangle 3568" width="5.994" height="0.712" transform="translate(9.896 12.873)" fill="#ed1c24"/>
+  <rect id="Rectangle_3569" data-name="Rectangle 3569" width="6.011" height="0.681" transform="translate(9.887 15.167)" fill="#ed1c24"/>
+  <rect id="Rectangle_3570" data-name="Rectangle 3570" width="5.989" height="0.687" transform="translate(9.904 17.439)" fill="#ed1c24"/>
+  <rect id="Rectangle_3571" data-name="Rectangle 3571" width="3.73" height="0.701" transform="translate(19.746 15.146)" fill="#ed1c24"/>
+  <rect id="Rectangle_3572" data-name="Rectangle 3572" width="0.699" height="0.679" transform="translate(19.747 17.434)" fill="#ed1c24"/>
+  <rect id="Rectangle_3573" data-name="Rectangle 3573" width="0.698" height="0.691" transform="translate(21.262 17.421)" fill="#ed1c24"/>
+  <rect id="Rectangle_3574" data-name="Rectangle 3574" width="0.673" height="0.7" transform="translate(9.904 19.704)" fill="#ed1c24"/>
+  <rect id="Rectangle_3575" data-name="Rectangle 3575" width="0.687" height="0.696" transform="translate(11.403 19.705)" fill="#ed1c24"/>
+  <rect id="Rectangle_3576" data-name="Rectangle 3576" width="0.69" height="0.698" transform="translate(14.451 21.977)" fill="#ed1c24"/>
+  <rect id="Rectangle_3577" data-name="Rectangle 3577" width="3.717" height="0.71" transform="translate(2.317 15.148)" fill="#ed1c24"/>
+  <rect id="Rectangle_3578" data-name="Rectangle 3578" width="0.713" height="0.7" transform="translate(1.529 3.772)" fill="#ed1c24"/>
+  <rect id="Rectangle_3579" data-name="Rectangle 3579" width="0.685" height="0.692" transform="translate(2.317 17.427)" fill="#ed1c24"/>
+  <rect id="Rectangle_3580" data-name="Rectangle 3580" width="0.668" height="0.703" transform="translate(3.851 17.417)" fill="#ed1c24"/>
+  <rect id="Rectangle_3581" data-name="Rectangle 3581" width="0.68" height="0.695" transform="translate(9.153 1.511)" fill="#ed1c24"/>
+  <g id="Group_26487" data-name="Group 26487">
+    <g id="Group_26486" data-name="Group 26486" clip-path="url(#clip-path)">
+      <path id="Path_58858" data-name="Path 58858" d="M106.112,15.373h-.665c-.134-.752-.073-.814.665-.676Z" transform="translate(-94.752 -13.161)" fill="#ed1c24"/>
+      <path id="Path_58859" data-name="Path 58859" d="M188.342,37.469h.711v.691l-.711.031Z" transform="translate(-169.331 -33.687)" fill="#ed1c24"/>
+      <path id="Path_58860" data-name="Path 58860" d="M30.322,90.294h.654l-.112.537h-.509c-.05.593-.392.912-1.063,1.007l1.471,1.337H29.623l-1.477-1.354v-.5h.6c.481,0,.711-.14.772-.492H28.079l.112-.537H29.5c-.078-.274-.3-.386-.7-.386h-.722l.112-.537h2.786l-.112.537H30.11a.814.814,0,0,1,.213.386" transform="translate(-25.245 -80.35)" fill="#ed1c24"/>
+      <path id="Path_58861" data-name="Path 58861" d="M115.111,65.674h.654l-.112.537h-.509c-.05.593-.392.912-1.063,1.007l1.471,1.337h-1.141L112.935,67.2v-.5h.6c.481,0,.71-.14.772-.492h-1.438l.112-.537h1.309c-.078-.274-.3-.386-.7-.386h-.722l.112-.537h2.786l-.112.537H114.9a.814.814,0,0,1,.213.386" transform="translate(-101.475 -58.215)" fill="#ed1c24"/>
+      <path id="Path_58862" data-name="Path 58862" d="M202.2,89.52h.654l-.112.537h-.509c-.05.593-.392.912-1.063,1.007l1.471,1.337H201.5l-1.477-1.354v-.5h.6c.481,0,.71-.14.772-.492h-1.438l.112-.537h1.309c-.078-.274-.3-.386-.7-.386h-.722l.112-.537h2.786l-.112.537h-.755a.814.814,0,0,1,.213.386" transform="translate(-179.775 -79.654)" fill="#ed1c24"/>
+    </g>
+  </g>
+</svg>

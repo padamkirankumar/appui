@@ -1,0 +1,108 @@
+
+//	NAMESPACE
+$global: "pos";
+
+
+//	COLORS
+//	===============================
+// $isos-primary-color:              #18BFFF;
+$pos-primary-color:             #07456B; 
+$pos-secondary-color:             #5083A2;
+
+$primary-color:#ED1C24;
+$secondary-color:#353C40;
+
+$pos-red:                          #F95D5D;
+$pos-green:                        #00B74E;
+$green :#29D367;
+
+$page-bg: #282f32;
+$footer-save-bg:#003659;
+$footer-light-text:#9B9B9B;
+$footer-dark-text:#707070;
+
+
+
+//  COLORS
+$white:                              #ffffff;
+
+$black:                             #000000;
+$black-light:                       #333333;
+
+$orange-lighter:                    #00ffff;
+$orange-light:                      #FFAF4C;
+
+$green-ultralight:                  #cce6d9;
+$green-lighter:			            #D9EDE3;
+$green-light:			            #99CEB4;
+// $green:                             #66B58E;
+$green-dark:			            #339D69;
+$green-darker:			            #008443;
+$green-dark:                        #48BB78;
+
+$red-light:                          #f71a1a;
+$red:                               #f82b60;
+
+$pink-light:                        #ff4e7d;
+$light-pink:                        #999;
+
+$grey-ultralight :                  #E9E9E9;
+$grey-lighter :                     #F1F1F1;
+$grey-light :                       #AEAFAF;
+$grey:                              #B9B9B9;
+$grey-dark :                        #898989;
+$grey-darker :                      #4D4F5C;
+
+$navy-blue:                         #004f8b;
+$navyblue-light:                    #495a6c;
+$navyblue-dark :                     #007BB7;
+
+$purple:                            #597FB9;
+
+$blue-ultralight:                   #EEF4F7;
+$blue-lighter:                      #F0FAFF;
+$blue:                              #009FDB;
+$blue-dark:                         #0292D5;
+
+$yellow:                            #FCB400;
+$yellow-ultralight:                 #030303;
+$yellow-lighter:                    #ffe566;
+$yellow-light:                      #FBCE07;
+$yellow-dark:                       #F49600;
+$yellow-pale:                       #fdeb9c;
+
+$red-ultralight:                    #FFFBF2;
+$red-lighter:                       #f8d2d3;
+$red-light:                         #FFDEDB;
+$red-dark:                          #FE6352;
+
+
+// Link Colors
+$link-color:                        #404040;
+$link-color-hover:                  #DD1D21;
+
+
+//Shadow Colors
+$shadow-color : #5b5b5b;
+$line-color:#f4f4f4;
+
+$shadow-card:   0px 0px 20px #0196fd30;
+// Form Colors
+$grey-form:                         #adadad;
+$form-control-border:               #b8b8b8;   // #A6A6A6
+$table-row-border:                  rgba(217, 217, 217, 0.8);   // #D9D9D9
+$check-radio-border:                #666666;                    // #666666
+$disabled-border:                   rgba(166, 166, 166, 0.8);   // #A6A6A6
+
+
+//table colors
+$table-heading-bg:                  #F5F6FA;
+$table-heading-color:               #6B6B6B;
+$table-text-color:                  #4D4F5C;
+
+// Error Handling Colors
+$error:                             #fee6dc;
+$warning:                           #fcf8e3;
+
+// Icon Hover Colors
+$icon-hover-bg:                     rgba(0, 0, 0, 0.1);         // #000000

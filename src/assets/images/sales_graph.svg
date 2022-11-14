@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="306" height="278" viewBox="0 0 306 278">
+  <g id="sales_graph" transform="translate(-396 -279)">
+    <path id="Intersection_7" data-name="Intersection 7" d="M0,8.185A120.662,120.662,0,0,1,19.446,2.462,122.058,122.058,0,0,1,43.609,0V37.789a82.993,82.993,0,0,0-30.127,5.73Z" transform="translate(508.719 294.537)" fill="#acacaa"/>
+    <path id="Intersection_6" data-name="Intersection 6" d="M0,27.971q.332-.338.667-.673A121.392,121.392,0,0,1,39.2,1.323Q40.814.638,42.456,0L55.782,35.4a83.708,83.708,0,0,0-29.1,19.391Z" transform="translate(466.219 302.74)" fill="#fec756"/>
+    <path id="Intersection_5" data-name="Intersection 5" d="M0,86.838q0-.425,0-.851A122.125,122.125,0,0,1,2.463,61.56,120.538,120.538,0,0,1,20.7,18.219,122.068,122.068,0,0,1,35.5.28L35.783,0l27.4,26.111A83.184,83.184,0,0,0,37.788,85.988c0,.284,0,.568,0,.851Z" transform="translate(431.385 329.758)" fill="#ee833e"/>
+    <path id="Intersection_4" data-name="Intersection 4" d="M53.437,99.8A122.183,122.183,0,0,1,35.5,84.994,122.154,122.154,0,0,1,20.7,67.055,121.229,121.229,0,0,1,9.523,46.467,120.626,120.626,0,0,1,2.461,23.715,122.036,122.036,0,0,1,0,0H37.789A83.513,83.513,0,0,0,82.173,73L64.465,106.42A121.271,121.271,0,0,1,53.437,99.8Z" transform="translate(431.387 416.459)" fill="#d25b19"/>
+    <path id="Intersection_3" data-name="Intersection 3" d="M32.458,46.374A120.532,120.532,0,0,1,9.706,39.311Q4.764,37.221,0,34.684L17.794,1.308a82.912,82.912,0,0,0,39.092,9.74A82.907,82.907,0,0,0,98.341,0l18.87,32.781a120.99,120.99,0,0,1-13.146,6.531,120.532,120.532,0,0,1-22.752,7.062,122.082,122.082,0,0,1-24.428,2.463A122.078,122.078,0,0,1,32.458,46.374Z" transform="translate(495.707 488.117)" fill="#c24702"/>
+    <path id="Intersection_2" data-name="Intersection 2" d="M0,73.154A83.479,83.479,0,0,0,42.218.638c0-.213,0-.425,0-.638H80c0,.213,0,.425,0,.638a122.083,122.083,0,0,1-2.463,24.428,120.533,120.533,0,0,1-7.062,22.752A121.2,121.2,0,0,1,59.306,68.406a122.155,122.155,0,0,1-14.8,17.939,122.155,122.155,0,0,1-17.939,14.8q-3.785,2.557-7.762,4.827Z" transform="translate(593.795 415.107)" fill="#a33804"/>
+    <path id="Intersection_1" data-name="Intersection 1" d="M83.417,120.57A83.517,83.517,0,0,0,0,37.788V0A122.077,122.077,0,0,1,24.428,2.463,120.532,120.532,0,0,1,47.18,9.525,121.229,121.229,0,0,1,67.768,20.7,122.113,122.113,0,0,1,85.707,35.5a122.149,122.149,0,0,1,14.8,17.938,121.21,121.21,0,0,1,11.175,20.589,120.533,120.533,0,0,1,7.062,22.752,122.06,122.06,0,0,1,2.461,23.79Z" transform="translate(552.594 294.537)" fill="#6a2605"/>
+    <text id="SHIRTS" transform="translate(646 327)" fill="#353c40" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SHIRTS</tspan></text>
+    <text id="_19.5_" data-name="19.5%" transform="translate(585 371)" fill="#353c40" font-size="9" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">19.5%</tspan></text>
+    <text id="_17.1_" data-name="17.1%" transform="translate(598 446)" fill="#353c40" font-size="9" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">17.1%</tspan></text>
+    <text id="_15.5_" data-name="15.5%" transform="translate(542 490)" fill="#353c40" font-size="9" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">15.5%</tspan></text>
+    <text id="_15.2_" data-name="15.2%" transform="translate(482 457)" fill="#353c40" font-size="9" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">15.2%</tspan></text>
+    <text id="_12.3_" data-name="12.3%" transform="translate(479 391)" fill="#353c40" font-size="9" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">12.3%</tspan></text>
+    <text id="_10.01_" data-name="10.01%" transform="translate(506 356)" fill="#353c40" font-size="9" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">10.01%</tspan></text>
+    <text id="_10.01_2" data-name="10.01%" transform="translate(535 345)" fill="#353c40" font-size="9" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">10.01%</tspan></text>
+    <text id="SAREES" transform="translate(668 477)" fill="#353c40" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SAREES</tspan></text>
+    <text id="KIDS" transform="translate(545 554)" fill="#353c40" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">KIDS</tspan></text>
+    <text id="JEANS" transform="translate(419 490)" fill="#353c40" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">JEANS</tspan></text>
+    <text id="T-SHIRTS" transform="translate(396 369)" fill="#353c40" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">T-SHIRTS</tspan></text>
+    <text id="WOMEN" transform="translate(445 310)" fill="#353c40" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">WOMEN</tspan></text>
+    <text id="OTHERS" transform="translate(501 290)" fill="#353c40" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">OTHERS</tspan></text>
+  </g>
+</svg>

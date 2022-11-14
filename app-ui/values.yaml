@@ -1,0 +1,106 @@
+# Default values for app-ui.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+
+name: app-ui
+
+replicaCount: 1
+namespace: 
+  name: default
+image:
+  repository: padamkiran/app-ui
+  pullPolicy: Always
+  # Overrides the image tag whose default is the chart appVersion.
+  tag: ""
+
+nameOverride: ""
+fullnameOverride: ""
+
+serviceAccount:
+  # Specifies whether a service account should be created
+  create: false
+  # Annotations to add to the service account
+  annotations: {}
+  # The name of the service account to use.
+  # If not set and create is true, a name is generated using the fullname template
+  name: ""
+
+podAnnotations: {}
+
+podSecurityContext: {}
+  # fsGroup: 2000
+
+securityContext: {}
+  # capabilities:
+  #   drop:
+  #   - ALL
+  # readOnlyRootFilesystem: true
+  # runAsNonRoot: true
+  # runAsUser: 1000
+
+service: 
+  type: LoadBalancer   # Change to NoadPort for Ingress
+  port: 3000
+
+ingress:
+  #class: alb
+  enabled: true # Enable ingress : true 
+  annotations:
+    kubernetes.io/ingress.class: alb
+    alb.ingress.kubernetes.io/scheme: internet-facing
+    alb.ingress.kubernetes.io/target-type: ip
+    #kubernetes.io/ingress.class: nginx
+    #cert-manager.io/cluster-issuer: letsencrypt-prod
+    #nginx.ingress.kubernetes.io/rewrite-target: /$1
+    #nginx.ingress.kubernetes.io/use-regex: "true"
+    
+  hosts:
+    - host: easyretailworld.vksa.co.in
+      paths:
+      - path: /
+        pathType: ImplementationSpecific
+        backend:
+          serviceName: app-ui
+          servicePort: 3000
+  tls:
+    - secretName: frontend-tls
+      hosts:
+        - easyretailworld.vksa.co.in
+
+#resources:
+#  limits:
+#    cpu: 250m
+#    memory: 128Mi
+#  requests:
+#    cpu: 100m
+#    memory: 128Mi
+  # We usually recommend not to specify default resources and to leave this as a conscious
+  # choice for the user. This also increases chances charts run on environments with little
+  # resources, such as Minikube. If you do want to specify resources, uncomment the following
+  # lines, adjust them as necessary, and remove the curly braces after 'resources:'.
+  # limits:
+  #   cpu: 100m
+  #   memory: 128Mi
+  # requests:
+  #   cpu: 100m
+  #   memory: 128Mi
+
+autoscaling:
+  enabled: false
+  minReplicas: 1
+  maxReplicas: 3
+  targetCPUUtilizationPercentage: 50
+  targetMemoryUtilizationPercentage: 50
+
+nodeSelector: {}
+
+tolerations: []
+
+affinity: {}
+
+persistence: 
+  enabled: true
+  storageClass: gp2
+  accessMode: ReadWriteOnce
+  size: 1Gi

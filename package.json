@@ -1,0 +1,72 @@
+{
+  "name": "retail-management",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "aes-js": "^3.1.2",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.1.0",
+    "browserprint": "^1.1.7",
+    "chart.js": "^3.7.1",
+    "chartjs-plugin-datalabels": "^2.0.0",
+    "crypto-js": "^4.1.1",
+    "dexie": "^3.2.0",
+    "i18next": "^21.1.1",
+    "i18next-browser-languagedetector": "^6.1.2",
+    "i18next-xhr-backend": "^3.2.2",
+    "js-file-download": "^0.4.12",
+    "jsencrypt": "^3.2.1",
+    "jwt-decode": "^3.1.2",
+    "moment": "^2.29.1",
+    "multiselect-react-dropdown": "^2.0.17",
+    "node-sass": "^6.0.1",
+    "react": "^17.0.2",
+    "react-autosuggest": "^10.1.0",
+    "react-bootstrap": "^2.0.0-beta.6",
+    "react-chartjs-2": "^4.0.1",
+    "react-collapse": "^5.1.1",
+    "react-data-table-component": "^7.5.0",
+    "react-dom": "^17.0.2",
+    "react-hot-keys": "^2.7.2",
+    "react-hotkeys": "^2.0.0",
+    "react-i18next": "^11.12.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "react-select": "^4.3.1",
+    "react-toastify": "^7.0.4",
+    "react-treeview": "^0.4.7",
+    "reactstrap": "^8.9.0",
+    "styled-components": "^4.1.3",
+    "use-react-countdown": "^1.0.4",
+    "web-vitals": "^1.1.2",
+    "xlsx": "^0.18.0",
+    "zebra-browser-print": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

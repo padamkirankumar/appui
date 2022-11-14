@@ -1,0 +1,44 @@
+/* Tab Navigation */
+ul.nav {
+    width: 50%;
+    margin-top: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #39A2DB;
+    border-radius: 2rem;
+  }
+  ul.nav li {
+    width: 50%;
+    padding: 0.1rem;
+    list-style: none;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.7s;
+    border-bottom-left-radius: 2rem;
+    border-top-left-radius: 2rem;
+
+  }
+  ul.nav li:nth-child(2) {
+    border-radius: 0;
+    border-bottom-right-radius: 2rem;
+    border-top-right-radius: 2rem;
+  }
+  ul.nav li:hover {
+    background: rgba(50, 224, 196, 0.15);
+  }
+  ul.nav li.active {
+    background: #39A2DB;
+  }
+
+  /* First and Second Tab Styles */
+.FirstTab p,
+.SecondTab p {
+  font-size: 2rem;
+  text-align: center;
+}
+
+.outlet {
+  float: left;
+  margin-top: 23px;
+}

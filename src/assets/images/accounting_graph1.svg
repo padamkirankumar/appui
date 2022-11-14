@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="612" height="226" viewBox="0 0 612 226">
+  <g id="accounting_graph1" transform="translate(11255 6111)">
+    <g id="Group_25783" data-name="Group 25783" transform="translate(-11300 -6388)">
+      <text id="_0" data-name="0" transform="translate(71 457)" fill="#353c40" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-6.469" y="0">0</tspan></text>
+      <text id="_2L" data-name="2L" transform="translate(71 417)" fill="#353c40" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-12.117" y="0">2L</tspan></text>
+      <text id="_4L" data-name="4L" transform="translate(71 377)" fill="#353c40" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-12.117" y="0">4L</tspan></text>
+      <text id="_6L" data-name="6L" transform="translate(71 337)" fill="#353c40" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-12.117" y="0">6L</tspan></text>
+      <text id="_8L" data-name="8L" transform="translate(71 297)" fill="#353c40" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-12.117" y="0">8L</tspan></text>
+      <line id="Line_18" data-name="Line 18" x2="563.396" transform="translate(80.5 372.5)" fill="none" stroke="#707070" stroke-width="1" opacity="0.1"/>
+      <line id="Line_19" data-name="Line 19" x2="563.396" transform="translate(80.5 332.5)" fill="none" stroke="#707070" stroke-width="1" opacity="0.1"/>
+      <line id="Line_20" data-name="Line 20" x2="563.396" transform="translate(80.5 292.5)" fill="none" stroke="#707070" stroke-width="1" opacity="0.1"/>
+      <line id="Line_21" data-name="Line 21" x2="563.396" transform="translate(80.5 412.5)" fill="none" stroke="#707070" stroke-width="1" opacity="0.1"/>
+      <line id="Line_22" data-name="Line 22" x2="563.396" transform="translate(80.5 452.5)" fill="none" stroke="#707070" stroke-width="1" opacity="0.1"/>
+      <text id="Panjagutta_-Hyd" data-name="Panjagutta
+-Hyd" transform="translate(112 475)" fill="#353c40" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-28.157" y="0">Panjagutta</tspan><tspan x="-13.096" y="16">-Hyd</tspan></text>
+      <rect id="Rectangle_3239" data-name="Rectangle 3239" width="20" height="60" transform="translate(102 393)" fill="#6ac8e0"/>
+      <text id="Waranal" transform="translate(609 475)" fill="#353c40" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-21.463" y="0">Waranal</tspan></text>
+      <rect id="Rectangle_3251" data-name="Rectangle 3251" width="20" height="73" transform="translate(599 380)" fill="#6ac8e0"/>
+      <text id="Vizag" transform="translate(535 475)" fill="#353c40" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-14.479" y="0">Vizag</tspan></text>
+      <rect id="Rectangle_3253" data-name="Rectangle 3253" width="20" height="53" transform="translate(525 400)" fill="#6ac8e0"/>
+      <text id="Vijayawada" transform="translate(454 475)" fill="#353c40" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-29.616" y="0">Vijayawada</tspan></text>
+      <rect id="Rectangle_3255" data-name="Rectangle 3255" width="20" height="81" transform="translate(444 372)" fill="#6ac8e0"/>
+      <text id="Ecil_-Hyd" data-name="Ecil
+-Hyd" transform="translate(374 475)" fill="#353c40" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-8.713" y="0">Ecil</tspan><tspan x="-13.096" y="16">-Hyd</tspan></text>
+      <rect id="Rectangle_3257" data-name="Rectangle 3257" width="20" height="93" transform="translate(364 360)" fill="#6ac8e0"/>
+      <text id="Chandanagar_-Hyd" data-name="Chandanagar
+-Hyd" transform="translate(287 475)" fill="#353c40" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-35.265" y="0">Chandanagar</tspan><tspan x="-13.096" y="16">-Hyd</tspan></text>
+      <rect id="Rectangle_3259" data-name="Rectangle 3259" width="20" height="73" transform="translate(277 380)" fill="#6ac8e0"/>
+      <text id="Patney_-Hyd" data-name="Patney
+-Hyd" transform="translate(196 475)" fill="#353c40" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-17.678" y="0">Patney</tspan><tspan x="-13.096" y="16">-Hyd</tspan></text>
+      <rect id="Rectangle_3261" data-name="Rectangle 3261" width="20" height="33" transform="translate(186 420)" fill="#6ac8e0"/>
+    </g>
+    <rect id="Rectangle_3316" data-name="Rectangle 3316" width="612" height="226" transform="translate(-11255 -6111)" fill="none"/>
+  </g>
+</svg>
