@@ -40,12 +40,11 @@ securityContext: {}
   # runAsUser: 1000
 
 service: 
-  type: LoadBalancer   # Change to NoadPort for Ingress
+  type: NodePort
   port: 3000
 
 ingress:
-  #class: alb
-  enabled: true # Enable ingress : true 
+  enabled: false
   annotations:
     kubernetes.io/ingress.class: alb
     alb.ingress.kubernetes.io/scheme: internet-facing
